@@ -16,4 +16,4 @@ The Solution:
 and this  cfg80211_ch_switch_started_notify
 
 thanks to https://github.com/Z0mbl03 for making a video https://youtu.be/pBrbcStK34M?si=4ZmV2LyKDYziiFUz and a fixed version of driver https://github.com/Z0mbl03/Tenda_AIC8800DC
-but it didint work for me try his driver if mine didnt work 
+but it didnt work for me try his driver if mine didnt work 
